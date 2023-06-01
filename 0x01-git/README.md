@@ -1,1 +1,2 @@
-this is a directory in my repo
+hi 
+My readme is up to date now
